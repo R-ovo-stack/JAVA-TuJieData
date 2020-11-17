@@ -1,4 +1,4 @@
-package DT;
+package Algorithms.DT;
 
 /**
  * 0-1背包问题

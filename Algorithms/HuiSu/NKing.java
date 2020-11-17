@@ -1,4 +1,4 @@
-package HuiSu;
+package Algorithms.HuiSu;
 
 /**
  * //此方法会造成大量垃圾

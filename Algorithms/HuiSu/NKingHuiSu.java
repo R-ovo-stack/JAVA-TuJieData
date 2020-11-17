@@ -1,4 +1,4 @@
-package HuiSu;
+package Algorithms.HuiSu;
 
 /**
  * 二叉树前序遍历暴力求解法，回溯优化Version 直接每条路径都尝试，之前走过的不会重复
